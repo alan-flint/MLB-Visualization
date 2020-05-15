@@ -1,2 +1,4 @@
-# mlb_vis
-MLB Data EDA and Visualization
+# MLB-Visualization
+### Final Project for MSDS Data Visualization Class
+
+
